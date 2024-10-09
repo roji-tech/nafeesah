@@ -1,0 +1,3 @@
+name = "BCH Project"
+packages= ["pandas", "pyodide"]
+description = "An App to diplay a Dataframe"
